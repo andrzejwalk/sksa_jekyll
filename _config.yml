@@ -29,6 +29,8 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+repository: "andrzejwalk/sksa_jekyll"
+
 
 sass:
     load_paths:
