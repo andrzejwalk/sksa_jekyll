@@ -30,10 +30,10 @@ plugins:
   - jekyll-feed
 
 
-#sass:
-#    load_paths:
-#      - _sass
-#      - node_modules
+sass:
+    load_paths:
+      - _sass
+      - node_modules
 
 
 # Exclude from processing.

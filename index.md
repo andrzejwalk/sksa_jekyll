@@ -7,4 +7,4 @@ title: Brunching Mockup
 ---
 
 
-raz dwa
+{% include content.haml %}
