@@ -26,15 +26,16 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
 
-sass:
-    load_paths:
-      - _sass
-      - node_modules
+#sass:
+#    load_paths:
+#      - _sass
+#      - node_modules
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
